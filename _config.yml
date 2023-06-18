@@ -18,7 +18,6 @@ baseurl:            ""
 # url:                https://nachwon.github.io
 
 title      : Your Awesome Website
-email      : crystalstudio1110@gmail.com
 description: "Site description"
 author     : Your Name
 # logo:     #optional, defaults to site title
